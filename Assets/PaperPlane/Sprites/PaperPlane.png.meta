@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 34c4e553c7196c74c8e0e1b989567805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6255099582095321003
+    second: PaperPlane_0
+  - first:
+      213: 7137086402537386802
+    second: PaperPlane_1
+  - first:
+      213: 3709506555038951719
+    second: PaperPlane_2
+  - first:
+      213: 3323743042612828915
+    second: PaperPlane_3
+  - first:
+      213: 7580732021287909689
+    second: PaperPlane_4
+  - first:
+      213: 7481447852558095310
+    second: PaperPlane_5
+  - first:
+      213: 6814008662717790616
+    second: PaperPlane_6
+  - first:
+      213: -3309821044588488223
+    second: PaperPlane_7
+  - first:
+      213: -3378273306493565761
+    second: PaperPlane_8
+  - first:
+      213: 2464692345718653970
+    second: PaperPlane_9
+  - first:
+      213: 2747528968666544737
+    second: PaperPlane_10
+  - first:
+      213: -7204285071792551584
+    second: PaperPlane_11
+  - first:
+      213: -2918619488697263077
+    second: PaperPlane_12
+  - first:
+      213: 3681090532195451201
+    second: PaperPlane_13
+  - first:
+      213: 8872984639629627680
+    second: PaperPlane_14
+  - first:
+      213: -7762025693235922873
+    second: PaperPlane_15
+  - first:
+      213: 7694221290557968287
+    second: PaperPlane_16
+  - first:
+      213: 6576569896005647793
+    second: PaperPlane_17
+  - first:
+      213: -8385601857684422847
+    second: PaperPlane_18
+  - first:
+      213: -4756420779877355599
+    second: PaperPlane_19
+  - first:
+      213: 3183530918803207783
+    second: PaperPlane_20
+  - first:
+      213: -3138765643255327668
+    second: PaperPlane_21
+  - first:
+      213: -8623526830705555316
+    second: PaperPlane_22
+  - first:
+      213: -356055590803549612
+    second: PaperPlane_23
+  - first:
+      213: 4375793972477185245
+    second: PaperPlane_24
+  - first:
+      213: -330693478396721649
+    second: PaperPlane_25
+  - first:
+      213: -5205572460166199838
+    second: PaperPlane_26
+  - first:
+      213: -8858321502893969521
+    second: PaperPlane_27
+  - first:
+      213: -2627330526111649270
+    second: PaperPlane_28
+  - first:
+      213: 7090002843843342962
+    second: PaperPlane_29
+  - first:
+      213: 7111304205450992300
+    second: PaperPlane_30
+  - first:
+      213: -4197230607509139730
+    second: PaperPlane_31
+  - first:
+      213: -7216413121158879513
+    second: PaperPlane_32
+  - first:
+      213: -6115782047828896217
+    second: PaperPlane_33
+  - first:
+      213: -7079569061708018748
+    second: PaperPlane_34
+  - first:
+      213: -2444970298761706115
+    second: PaperPlane_35
+  - first:
+      213: -4206789838321028920
+    second: PaperPlane_36
+  - first:
+      213: -307740014840445617
+    second: PaperPlane_37
+  - first:
+      213: -3067798711302007022
+    second: PaperPlane_38
+  - first:
+      213: 3148917038242695490
+    second: PaperPlane_39
+  - first:
+      213: -3902983221405483274
+    second: PaperPlane_40
+  - first:
+      213: 2723383023128472875
+    second: PaperPlane_41
+  - first:
+      213: -5561741096596965329
+    second: PaperPlane_42
+  - first:
+      213: 4944294593137634127
+    second: PaperPlane_43
+  - first:
+      213: -7757282455531773236
+    second: PaperPlane_44
+  - first:
+      213: 2884282835744697318
+    second: PaperPlane_45
+  - first:
+      213: 4889336986956065337
+    second: PaperPlane_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaperPlane_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 337
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba76c71dde39ec650800000000000000
+      internalID: 6255099582095321003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 695
+        width: 338
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233f28ae4460c0360800000000000000
+      internalID: 7137086402537386802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 695
+        width: 338
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7296419de80da7330800000000000000
+      internalID: 3709506555038951719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_3
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 118
+        width: 671
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1d93ffae402e20800000000000000
+      internalID: 3323743042612828915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 694
+        width: 290
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397b42eb9b243960800000000000000
+      internalID: 7580732021287909689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 337
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec39559fe2173d760800000000000000
+      internalID: 7481447852558095310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 559
+        width: 338
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8997abdc6c8309e50800000000000000
+      internalID: 6814008662717790616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 559
+        width: 337
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d03fcb472112d0800000000000000
+      internalID: -3309821044588488223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_8
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 570
+        width: 202
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4444c9356fd11d0800000000000000
+      internalID: -3378273306493565761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_9
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 517
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144f2341a8543220800000000000000
+      internalID: 2464692345718653970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 337
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16af67b3a0f212620800000000000000
+      internalID: 2747528968666544737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 424
+        width: 338
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c72ba5ec350c90800000000000000
+      internalID: -7204285071792551584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 424
+        width: 337
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cdaadd90bfe77d0800000000000000
+      internalID: -2918619488697263077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_13
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 192
+        width: 66
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414095f55cd51330800000000000000
+      internalID: 3681090532195451201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_14
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 192
+        width: 68
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211f96c48c232b70800000000000000
+      internalID: 8872984639629627680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_15
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 457
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748b739c1ceb74490800000000000000
+      internalID: -7762025693235922873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 337
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f84fe7f7d57ca60800000000000000
+      internalID: 7694221290557968287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 288
+        width: 338
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb1fbe97ba44b50800000000000000
+      internalID: 6576569896005647793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_18
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 403
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3ddc0a8b50ab80800000000000000
+      internalID: -8385601857684422847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_19
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 365
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfaf15508ccdfdb0800000000000000
+      internalID: -4756420779877355599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 325
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766fcbae08c2e2c20800000000000000
+      internalID: 3183530918803207783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 325
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d090074dd074d0800000000000000
+      internalID: -3138765643255327668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 327
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88ceb07904135880800000000000000
+      internalID: -8623526830705555316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_23
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 325
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452dcdd93590f0bf0800000000000000
+      internalID: -356055590803549612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_24
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 325
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc4ccb1f61f9bc30800000000000000
+      internalID: 4375793972477185245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_25
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 325
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0600a29804296bf0800000000000000
+      internalID: -330693478396721649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_26
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 309
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5cc338d6712c7b0800000000000000
+      internalID: -5205572460166199838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 337
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fecc9c68be01580800000000000000
+      internalID: -8858321502893969521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 152
+        width: 450
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0233938ec8d98bd0800000000000000
+      internalID: -2627330526111649270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_29
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 241
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272bac3a500c46260800000000000000
+      internalID: 7090002843843342962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 241
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad5af5f7d60b260800000000000000
+      internalID: 7111304205450992300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 241
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee4507100170c5c0800000000000000
+      internalID: -4197230607509139730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_32
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 241
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e66bd020862adb90800000000000000
+      internalID: -7216413121158879513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_33
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 241
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726927b51a0602ba0800000000000000
+      internalID: -6115782047828896217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_34
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 241
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb4c02927150cd90800000000000000
+      internalID: -7079569061708018748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_35
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 202
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d758def9778b11ed0800000000000000
+      internalID: -2444970298761706115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_36
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0f62a3eea7e95c0800000000000000
+      internalID: -4206789838321028920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_37
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 199
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4503444610babbf0800000000000000
+      internalID: -307740014840445617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_38
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 199
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175172735dfc65d0800000000000000
+      internalID: -3067798711302007022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_39
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 38
+        width: 53
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24981a3dc5333bb20800000000000000
+      internalID: 3148917038242695490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 337
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5d4f5998a51545b32d79524e535c2
+      internalID: -871617937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_41
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 119
+        width: 160
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4c3ad1267bd544aa379d7964eb761d
+      internalID: -1138103631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_42
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 36
+        width: 74
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6930dfe70c3764f8b21b35fdd701f2
+      internalID: 219905954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperPlane_43
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 310
+        width: 331
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071bcf83fb275da4aa80f1df949efe9c
+      internalID: 76295452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d8839a0cd94a9049bd282a19bc45308
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PaperPlane_0: 6255099582095321003
+      PaperPlane_1: 7137086402537386802
+      PaperPlane_10: 2747528968666544737
+      PaperPlane_11: -7204285071792551584
+      PaperPlane_12: -2918619488697263077
+      PaperPlane_13: 3681090532195451201
+      PaperPlane_14: 8872984639629627680
+      PaperPlane_15: -7762025693235922873
+      PaperPlane_16: 7694221290557968287
+      PaperPlane_17: 6576569896005647793
+      PaperPlane_18: -8385601857684422847
+      PaperPlane_19: -4756420779877355599
+      PaperPlane_2: 3709506555038951719
+      PaperPlane_20: 3183530918803207783
+      PaperPlane_21: -3138765643255327668
+      PaperPlane_22: -8623526830705555316
+      PaperPlane_23: -356055590803549612
+      PaperPlane_24: 4375793972477185245
+      PaperPlane_25: -330693478396721649
+      PaperPlane_26: -5205572460166199838
+      PaperPlane_27: -8858321502893969521
+      PaperPlane_28: -2627330526111649270
+      PaperPlane_29: 7090002843843342962
+      PaperPlane_3: 3323743042612828915
+      PaperPlane_30: 7111304205450992300
+      PaperPlane_31: -4197230607509139730
+      PaperPlane_32: -7216413121158879513
+      PaperPlane_33: -6115782047828896217
+      PaperPlane_34: -7079569061708018748
+      PaperPlane_35: -2444970298761706115
+      PaperPlane_36: -4206789838321028920
+      PaperPlane_37: -307740014840445617
+      PaperPlane_38: -3067798711302007022
+      PaperPlane_39: 3148917038242695490
+      PaperPlane_4: 7580732021287909689
+      PaperPlane_40: -871617937
+      PaperPlane_41: -1138103631
+      PaperPlane_42: 219905954
+      PaperPlane_43: 76295452
+      PaperPlane_5: 7481447852558095310
+      PaperPlane_6: 6814008662717790616
+      PaperPlane_7: -3309821044588488223
+      PaperPlane_8: -3378273306493565761
+      PaperPlane_9: 2464692345718653970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
